@@ -1,0 +1,17 @@
+#b1{
+    border: 2px solid;
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+    text-align: center;
+    font-size: large;
+    
+
+    transform: translateX(30px);
+    transform: translateY(50px);
+    transform: translateZ(40px);
+    transform: rotateX(180deg);
+    transform: skewX(20deg);
+    transform: scaleX(4); /*multiples size 4 times*/
+ 
+}

@@ -1,0 +1,28 @@
+h1
+{
+    background-color: black;
+    color: aqua;
+    border: 2.5px cyan solid;
+    border-radius: 10px;
+    border-style:outset;
+    border-width: 3px;
+}
+h2
+{
+    color: black;
+    border: 2px rgb(0, 0, 0) solid;
+    border-radius: 5px;
+    padding: 20px;
+    border-top-style: dashed;
+    border-bottom-style:hidden;
+    border-left-color: blue;
+    border-left-style: initial;
+
+}
+p
+{
+    border: 3px black solid;
+    border-radius: 3px;
+    padding: 10px;
+    
+}

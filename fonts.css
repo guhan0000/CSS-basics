@@ -1,0 +1,15 @@
+h1
+{
+    font-family: Press Start 2P;
+    font-size: medium;
+    color: blue;
+}
+p
+{
+    background-color: darkorange;
+    font-family:arial;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: italic;
+   text-decoration:underline wavy crimson;
+}

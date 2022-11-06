@@ -1,0 +1,10 @@
+h1
+{
+    background:linear-gradient(to top, blue,rgb(192, 31, 189));
+
+}
+body{
+    background: linear-gradient(red,white);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}

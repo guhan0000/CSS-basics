@@ -1,0 +1,30 @@
+a:visited{
+    color: aqua;
+}
+a:active{
+    color:brown
+}
+a:hover{
+    color:yellowgreen
+}
+#link2:visited{
+    color: yellow;
+}
+#link2:active{
+    color: tomato;
+}
+#link2:hover{
+    color: black;
+}
+li:nth-child(5n)
+{
+    color:springgreen
+}
+button:active{
+    background-color:hotpink;
+
+}
+button:hover{
+    color:blue;
+    background-color: gold;
+}

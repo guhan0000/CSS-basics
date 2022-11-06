@@ -1,0 +1,19 @@
+body
+{
+    background-color: rgb(24, 21, 21);
+}
+
+#p1
+{
+    background-color: blue;
+    color: red;
+}
+#p2
+{
+    background-color: aqua;
+    color: azure;
+}
+.odd
+{
+color: brown;
+}
